@@ -1,5 +1,7 @@
 #lamp
 >基于netty&spring容器封装的json通讯协议组件
+>服务端：netty+spring构建，主要用来实现业务
+>客户端：netty调用，获取数据
 
 ##modules
 ![Alt text](./doc/lamp-modules.png)
